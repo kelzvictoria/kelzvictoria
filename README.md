@@ -7,7 +7,7 @@ Full Stack Developer
 I am a MERN stack developer who loves solving problems with codes.
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [MyPortfolio](http://vkaz.cyclic.app/)
+<!--* 🖥️  See my portfolio at [MyPortfolio](http://vkaz.cyclic.app/)-->
 * ✉️  You can contact me at [kelzvictoria@gmail.com](mailto:kelzvictoria@gmail.com)
 * 🚀  I'm currently working on [A Church Attendance App](http://churchcheck.vercel.app)
 * 🤝  I'm open to collaborating on Interesting projects
